@@ -5,9 +5,13 @@ when browsering, press `Home` key to back to **Index**.
 
 ### Index
 [Multi-media-support](#multi-media-support)
+
 [Entertainments](#entertainments)
+
 [Power Toys](#power-toys)
+
 [DE Customization](#de-customization)
+
 [Funnies](#funnies)
 
 ## Multi-media-support
@@ -35,8 +39,9 @@ when browsering, press `Home` key to back to **Index**.
     - if you are using Asus Computer, please do not install this, using `asus-ctl` above.
 
 ## DE Customization
-- **KDE** : Desktop Environment with more customization options. A wide platform for loading more plugin. 
-Below is my recommendation: A Mac - Flat style mixture. Using deep color for transparent, blur and window content(inspire by Battlefield 2042 early UI design), with white window decoration, preserving some OS X highlights, reminding the user this is a UNIX system.
+- **KDE** : Desktop Environment with more customization options. A wide platform for loading more plugin.
+Below is my recommendation: A Mac - Flat style mixture.
+Using deep color for transparent, blur and window content(inspire by Battlefield 2042 early UI design), with white window decoration, preserving some OS X highlights, reminding the user this is a UNIX system.
     - **Kvantum Manager** : GTK Application style manager (global)
     - Global Theme: Gently
     - Application Sytle: kvantum-dark
